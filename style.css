@@ -1,0 +1,11 @@
+header, .container{
+    background-color: #f8f9fa;
+}
+
+.container .navbar{
+    padding-left: 8px;
+}
+
+.container .row .card{
+    margin: -15px auto 30px;
+}
