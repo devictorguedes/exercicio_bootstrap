@@ -9,3 +9,7 @@ header, .container{
 .container .row .card{
     margin: -15px auto 30px;
 }
+
+.about{
+    background-color: #fff;
+}
