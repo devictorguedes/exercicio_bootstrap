@@ -13,3 +13,9 @@ header, .container{
 .about{
     background-color: #fff;
 }
+
+.carousel-caption{
+    background-color: #000000a1;
+    right: 40%!important;;
+    left: 40%!important;;
+}
